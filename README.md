@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/miohieu](https://github.com/miohieu)
 
-- 💬 Ask me about **tech memes, rust**
+- 💬 Ask me about **dev related stuff i want to learn from you guys**
 
 - 📫 How to reach me **https://hieuvu-linktree.vercel.app/**
 
